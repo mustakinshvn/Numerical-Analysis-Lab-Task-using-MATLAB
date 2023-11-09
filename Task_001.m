@@ -1,4 +1,4 @@
-function retval= Task_01()
+function Matrix_Manipulation = Task_01()
       A= input("Enter Matrix A: ");
       B= input("Enter Matrix B: ");
       A_max=max((A(:)));
