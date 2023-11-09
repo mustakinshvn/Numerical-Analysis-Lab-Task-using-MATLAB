@@ -4,7 +4,7 @@ function y = f(x)
     y = x.^3 - 2*(x.^2)-4;
 end
 
-a = -10;
+a = 0;
 b = 3;
 e = 1e-6;
 
